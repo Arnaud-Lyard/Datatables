@@ -1,4 +1,4 @@
 # Datatables
-Récupérer des données sous la forme d'un tableau
+Retrieve Data in Table Format
 
-Récupérer les données d'une base de données et les afficher sous la  forme d'un tableau. On alimente le tableau directement avec Jquery et Ajax ou on utilise la librairie Datatables.
+Retrieve data from a database and display it in a table format. The table is populated directly using jQuery and Ajax, or by using the Datatables library.
